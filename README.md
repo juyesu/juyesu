@@ -7,15 +7,15 @@
 가이드 문서들과 우수 Web 사례들을 자주 찾아보며 SEO, 접근성을 갖춘 시맨틱한 웹 개발을 좋아합니다.   
 나 자신뿐만 아니라 팀원 모두가 함께 성장할 수 있는 방향이 무엇인지 항상 고민하고 먼저 제안해 보는 성격입니다.
 
-📖Education & Experience
+📖 **Education & Experience**
 - 스프린트 부트캠프 프론트엔드 단기심화 / 2025.04~2025.06
 - T3Q 프론트엔드 개발 인턴 / 2024.07 ~ 2024.08
 - 유한대학교 인공지능전공 / 2019.03 ~ 2025.02
 
-🤝Contact
+🤝 **Contact**
 - Email: jihyeok04@gmail.com
 
-💻 Teck Stack   
+💻 **Teck Stack**   
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
